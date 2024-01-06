@@ -16,4 +16,19 @@ is_stude5t = True # Boolean
 x = 5
 print(x) # Output: 5
 x = "Hello"
-print(x) # Output: Hell
+print(x) # Output: Hello
+
+# Multiple Assignments
+x, y, z = 1, 2,
+
+
+# Variable Concatenation:
+first_name = "Pratik"
+last_name = "Sutar"
+full_name = first_name + " " + last_name
+print(full_name) # Output: Pratik Sutar
+
+
+
+
+
